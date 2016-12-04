@@ -10,3 +10,7 @@ $ npm i
 $ npm run build
 $ bundle exec rails s
 ```
+
+## Sample
+
+https://rails-riot-spa.herokuapp.com/
