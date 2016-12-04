@@ -6,6 +6,7 @@
   this.items = [
     {path: '/', title: 'ホーム'},
     {path: '/about', title: '概要'},
-    {path: '/contact', title: 'お問い合わせ'}
+    {path: '/contact', title: 'お問い合わせ'},
+    {path: '/articles', title: '記事一覧'}
   ]
 </menu>

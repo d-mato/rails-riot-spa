@@ -9,6 +9,7 @@
   "scripts": {
     "postinstall": "npm run build",
     "build": "webpack --config frontend/webpack.config.js",
+    "build:watch": "webpack --config frontend/webpack.config.js -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

@@ -5,3 +5,10 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Article.create(
+  [
+    { date: '2016/12/05', title: 'サイト閉鎖のお知らせ', body: 'これまでお世話になりました。' },
+    { date: '2016/12/04', title: 'サイトリニューアル！', body: 'サイトをリニューアルしました。これからもよろしくお願いいたします。' }
+  ]
+)
